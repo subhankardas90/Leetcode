@@ -1,7 +1,7 @@
 package org.example;
 
 //LC605
-public class LC754 {
+public class LC7504 {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int length = flowerbed.length;
         int count = 0;

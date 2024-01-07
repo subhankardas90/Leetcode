@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //LC1431
-public class LC753 {
+public class LC7503 {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int max =candies[0];
         for(int i=1;i<candies.length;i++){

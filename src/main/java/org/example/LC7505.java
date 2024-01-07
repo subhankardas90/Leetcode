@@ -1,7 +1,7 @@
 package org.example;
 
 //LC - 345
-public class LC755 {
+public class LC7505 {
 
     public String reverseVowels(String s) {
         char[] str = s.toCharArray();
